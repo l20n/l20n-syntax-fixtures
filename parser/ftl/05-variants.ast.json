@@ -244,242 +244,245 @@
         "name": "section",
         "namespace": null
       },
-      "comment": null
-    },
-    {
-      "type": "Entity",
-      "id": {
-        "type": "Identifier",
-        "name": "key6"
-      },
-      "value": null,
-      "traits": [
+      "body": [
         {
-          "type": "Member",
-          "key": {
-            "type": "Keyword",
-            "name": "one",
-            "namespace": null
+          "type": "Entity",
+          "id": {
+            "type": "Identifier",
+            "name": "key6"
           },
-          "value": {
-            "type": "Pattern",
-            "source": "One",
-            "elements": [
-              {
-                "type": "TextElement",
-                "value": "One"
-              }
-            ],
-            "_quoteDelim": false
-          },
-          "default": false
+          "value": null,
+          "traits": [
+            {
+              "type": "Member",
+              "key": {
+                "type": "Keyword",
+                "name": "one",
+                "namespace": null
+              },
+              "value": {
+                "type": "Pattern",
+                "source": "One",
+                "elements": [
+                  {
+                    "type": "TextElement",
+                    "value": "One"
+                  }
+                ],
+                "_quoteDelim": false
+              },
+              "default": false
+            },
+            {
+              "type": "Member",
+              "key": {
+                "type": "Keyword",
+                "name": "two",
+                "namespace": null
+              },
+              "value": {
+                "type": "Pattern",
+                "source": "Two",
+                "elements": [
+                  {
+                    "type": "TextElement",
+                    "value": "Two"
+                  }
+                ],
+                "_quoteDelim": false
+              },
+              "default": false
+            },
+            {
+              "type": "Member",
+              "key": {
+                "type": "Keyword",
+                "name": "three",
+                "namespace": null
+              },
+              "value": {
+                "type": "Pattern",
+                "source": "Three",
+                "elements": [
+                  {
+                    "type": "TextElement",
+                    "value": "Three"
+                  }
+                ],
+                "_quoteDelim": false
+              },
+              "default": false
+            }
+          ],
+          "comment": null
         },
         {
-          "type": "Member",
-          "key": {
-            "type": "Keyword",
-            "name": "two",
-            "namespace": null
+          "type": "Entity",
+          "id": {
+            "type": "Identifier",
+            "name": "key7"
           },
-          "value": {
-            "type": "Pattern",
-            "source": "Two",
-            "elements": [
-              {
-                "type": "TextElement",
-                "value": "Two"
-              }
-            ],
-            "_quoteDelim": false
-          },
-          "default": false
+          "value": null,
+          "traits": [
+            {
+              "type": "Member",
+              "key": {
+                "type": "Keyword",
+                "name": "a b",
+                "namespace": null
+              },
+              "value": {
+                "type": "Pattern",
+                "source": "A",
+                "elements": [
+                  {
+                    "type": "TextElement",
+                    "value": "A"
+                  }
+                ],
+                "_quoteDelim": false
+              },
+              "default": false
+            }
+          ],
+          "comment": null
         },
         {
-          "type": "Member",
-          "key": {
-            "type": "Keyword",
-            "name": "three",
-            "namespace": null
+          "type": "Entity",
+          "id": {
+            "type": "Identifier",
+            "name": "key8"
           },
-          "value": {
-            "type": "Pattern",
-            "source": "Three",
-            "elements": [
-              {
-                "type": "TextElement",
-                "value": "Three"
-              }
-            ],
-            "_quoteDelim": false
-          },
-          "default": false
-        }
-      ],
-      "comment": null
-    },
-    {
-      "type": "Entity",
-      "id": {
-        "type": "Identifier",
-        "name": "key7"
-      },
-      "value": null,
-      "traits": [
-        {
-          "type": "Member",
-          "key": {
-            "type": "Keyword",
-            "name": "a b",
-            "namespace": null
-          },
-          "value": {
-            "type": "Pattern",
-            "source": "A",
-            "elements": [
-              {
-                "type": "TextElement",
-                "value": "A"
-              }
-            ],
-            "_quoteDelim": false
-          },
-          "default": false
-        }
-      ],
-      "comment": null
-    },
-    {
-      "type": "Entity",
-      "id": {
-        "type": "Identifier",
-        "name": "key8"
-      },
-      "value": null,
-      "traits": [
-        {
-          "type": "Member",
-          "key": {
-            "type": "Keyword",
-            "name": "a b",
-            "namespace": "x"
-          },
-          "value": {
-            "type": "Pattern",
-            "source": "A",
-            "elements": [
-              {
-                "type": "TextElement",
-                "value": "A"
-              }
-            ],
-            "_quoteDelim": false
-          },
-          "default": false
-        }
-      ],
-      "comment": null
-    },
-    {
-      "type": "Entity",
-      "id": {
-        "type": "Identifier",
-        "name": "key9"
-      },
-      "value": null,
-      "traits": [
-        {
-          "type": "Member",
-          "key": {
-            "type": "Keyword",
-            "name": "a",
-            "namespace": null
-          },
-          "value": {
-            "type": "Pattern",
-            "source": "A",
-            "elements": [
-              {
-                "type": "TextElement",
-                "value": "A"
-              }
-            ],
-            "_quoteDelim": false
-          },
-          "default": false
+          "value": null,
+          "traits": [
+            {
+              "type": "Member",
+              "key": {
+                "type": "Keyword",
+                "name": "a b",
+                "namespace": "x"
+              },
+              "value": {
+                "type": "Pattern",
+                "source": "A",
+                "elements": [
+                  {
+                    "type": "TextElement",
+                    "value": "A"
+                  }
+                ],
+                "_quoteDelim": false
+              },
+              "default": false
+            }
+          ],
+          "comment": null
         },
         {
-          "type": "Member",
-          "key": {
-            "type": "Keyword",
-            "name": "a b",
-            "namespace": null
+          "type": "Entity",
+          "id": {
+            "type": "Identifier",
+            "name": "key9"
           },
-          "value": {
-            "type": "Pattern",
-            "source": "AB",
-            "elements": [
-              {
-                "type": "TextElement",
-                "value": "AB"
-              }
-            ],
-            "_quoteDelim": false
-          },
-          "default": false
-        }
-      ],
-      "comment": null
-    },
-    {
-      "type": "Entity",
-      "id": {
-        "type": "Identifier",
-        "name": "key10"
-      },
-      "value": null,
-      "traits": [
-        {
-          "type": "Member",
-          "key": {
-            "type": "Keyword",
-            "name": "a",
-            "namespace": "x"
-          },
-          "value": {
-            "type": "Pattern",
-            "source": "XA",
-            "elements": [
-              {
-                "type": "TextElement",
-                "value": "XA"
-              }
-            ],
-            "_quoteDelim": false
-          },
-          "default": false
+          "value": null,
+          "traits": [
+            {
+              "type": "Member",
+              "key": {
+                "type": "Keyword",
+                "name": "a",
+                "namespace": null
+              },
+              "value": {
+                "type": "Pattern",
+                "source": "A",
+                "elements": [
+                  {
+                    "type": "TextElement",
+                    "value": "A"
+                  }
+                ],
+                "_quoteDelim": false
+              },
+              "default": false
+            },
+            {
+              "type": "Member",
+              "key": {
+                "type": "Keyword",
+                "name": "a b",
+                "namespace": null
+              },
+              "value": {
+                "type": "Pattern",
+                "source": "AB",
+                "elements": [
+                  {
+                    "type": "TextElement",
+                    "value": "AB"
+                  }
+                ],
+                "_quoteDelim": false
+              },
+              "default": false
+            }
+          ],
+          "comment": null
         },
         {
-          "type": "Member",
-          "key": {
-            "type": "Keyword",
-            "name": "a b",
-            "namespace": "x"
+          "type": "Entity",
+          "id": {
+            "type": "Identifier",
+            "name": "key10"
           },
-          "value": {
-            "type": "Pattern",
-            "source": "XAB",
-            "elements": [
-              {
-                "type": "TextElement",
-                "value": "XAB"
-              }
-            ],
-            "_quoteDelim": false
-          },
-          "default": false
+          "value": null,
+          "traits": [
+            {
+              "type": "Member",
+              "key": {
+                "type": "Keyword",
+                "name": "a",
+                "namespace": "x"
+              },
+              "value": {
+                "type": "Pattern",
+                "source": "XA",
+                "elements": [
+                  {
+                    "type": "TextElement",
+                    "value": "XA"
+                  }
+                ],
+                "_quoteDelim": false
+              },
+              "default": false
+            },
+            {
+              "type": "Member",
+              "key": {
+                "type": "Keyword",
+                "name": "a b",
+                "namespace": "x"
+              },
+              "value": {
+                "type": "Pattern",
+                "source": "XAB",
+                "elements": [
+                  {
+                    "type": "TextElement",
+                    "value": "XAB"
+                  }
+                ],
+                "_quoteDelim": false
+              },
+              "default": false
+            }
+          ],
+          "comment": null
         }
       ],
       "comment": null
     }
-  ]
+  ],
+  "comment": null
 }

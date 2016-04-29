@@ -112,111 +112,114 @@
         "name": "section",
         "namespace": null
       },
+      "body": [
+        {
+          "type": "JunkEntry",
+          "content": "dd\n\n"
+        },
+        {
+          "type": "Entity",
+          "id": {
+            "type": "Identifier",
+            "name": "key6"
+          },
+          "value": {
+            "type": "Pattern",
+            "source": "value",
+            "elements": [
+              {
+                "type": "TextElement",
+                "value": "value"
+              }
+            ],
+            "_quoteDelim": false
+          },
+          "traits": [],
+          "comment": null
+        },
+        {
+          "type": "JunkEntry",
+          "content": "[[section\n]]\n\n"
+        },
+        {
+          "type": "Entity",
+          "id": {
+            "type": "Identifier",
+            "name": "key7"
+          },
+          "value": {
+            "type": "Pattern",
+            "source": "value",
+            "elements": [
+              {
+                "type": "TextElement",
+                "value": "value"
+              }
+            ],
+            "_quoteDelim": false
+          },
+          "traits": [],
+          "comment": null
+        },
+        {
+          "type": "JunkEntry",
+          "content": "\n[[ ]]\n\n"
+        },
+        {
+          "type": "Entity",
+          "id": {
+            "type": "Identifier",
+            "name": "key8"
+          },
+          "value": {
+            "type": "Pattern",
+            "source": "value",
+            "elements": [
+              {
+                "type": "TextElement",
+                "value": "value"
+              }
+            ],
+            "_quoteDelim": false
+          },
+          "traits": [],
+          "comment": null
+        },
+        {
+          "type": "JunkEntry",
+          "content": "[[]]\n\n"
+        },
+        {
+          "type": "Entity",
+          "id": {
+            "type": "Identifier",
+            "name": "key9"
+          },
+          "value": {
+            "type": "Pattern",
+            "source": "value",
+            "elements": [
+              {
+                "type": "TextElement",
+                "value": "value"
+              }
+            ],
+            "_quoteDelim": false
+          },
+          "traits": [],
+          "comment": null
+        },
+        {
+          "type": "JunkEntry",
+          "content": "#doo\n[[\n\n"
+        },
+        {
+          "type": "JunkEntry",
+          "content": "#doo\n[[\n\n#foo\n[\n"
+        }
+      ],
       "comment": null
-    },
-    {
-      "type": "JunkEntry",
-      "content": "dd\n\n"
-    },
-    {
-      "type": "Entity",
-      "id": {
-        "type": "Identifier",
-        "name": "key6"
-      },
-      "value": {
-        "type": "Pattern",
-        "source": "value",
-        "elements": [
-          {
-            "type": "TextElement",
-            "value": "value"
-          }
-        ],
-        "_quoteDelim": false
-      },
-      "traits": [],
-      "comment": null
-    },
-    {
-      "type": "JunkEntry",
-      "content": "[[section\n]]\n\n"
-    },
-    {
-      "type": "Entity",
-      "id": {
-        "type": "Identifier",
-        "name": "key7"
-      },
-      "value": {
-        "type": "Pattern",
-        "source": "value",
-        "elements": [
-          {
-            "type": "TextElement",
-            "value": "value"
-          }
-        ],
-        "_quoteDelim": false
-      },
-      "traits": [],
-      "comment": null
-    },
-    {
-      "type": "JunkEntry",
-      "content": "\n[[ ]]\n\n"
-    },
-    {
-      "type": "Entity",
-      "id": {
-        "type": "Identifier",
-        "name": "key8"
-      },
-      "value": {
-        "type": "Pattern",
-        "source": "value",
-        "elements": [
-          {
-            "type": "TextElement",
-            "value": "value"
-          }
-        ],
-        "_quoteDelim": false
-      },
-      "traits": [],
-      "comment": null
-    },
-    {
-      "type": "JunkEntry",
-      "content": "[[]]\n\n"
-    },
-    {
-      "type": "Entity",
-      "id": {
-        "type": "Identifier",
-        "name": "key9"
-      },
-      "value": {
-        "type": "Pattern",
-        "source": "value",
-        "elements": [
-          {
-            "type": "TextElement",
-            "value": "value"
-          }
-        ],
-        "_quoteDelim": false
-      },
-      "traits": [],
-      "comment": null
-    },
-    {
-      "type": "JunkEntry",
-      "content": "#doo\n[[\n\n"
-    },
-    {
-      "type": "JunkEntry",
-      "content": "#doo\n[[\n\n#foo\n[\n"
     }
-  ]
+  ],
+  "comment": null
 }

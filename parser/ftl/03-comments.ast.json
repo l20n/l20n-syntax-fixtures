@@ -67,5 +67,9 @@
         "content": "Comment for entity key2"
       }
     }
-  ]
+  ],
+  "comment": {
+    "type": "Comment",
+    "content": "File comment"
+  }
 }
