@@ -51,7 +51,7 @@
         "exp": {
           "type": "call",
           "name": {
-            "type": "blt",
+            "type": "fun",
             "name": "LEN"
           },
           "args": [
@@ -87,14 +87,14 @@
         "exp": {
           "type": "call",
           "name": {
-            "type": "blt",
+            "type": "fun",
             "name": "LEN"
           },
           "args": [
             {
               "type": "call",
               "name": {
-                "type": "blt",
+                "type": "fun",
                 "name": "NEL"
               },
               "args": [
@@ -142,7 +142,7 @@
       {
         "type": "call",
         "name": {
-          "type": "blt",
+          "type": "fun",
           "name": "LEN"
         },
         "args": [
@@ -171,7 +171,7 @@
       {
         "type": "call",
         "name": {
-          "type": "blt",
+          "type": "fun",
           "name": "len"
         },
         "args": []
@@ -183,7 +183,7 @@
       {
         "type": "call",
         "name": {
-          "type": "blt",
+          "type": "fun",
           "name": "len"
         },
         "args": [
@@ -200,7 +200,7 @@
       {
         "type": "call",
         "name": {
-          "type": "blt",
+          "type": "fun",
           "name": "len"
         },
         "args": [
@@ -217,7 +217,7 @@
       {
         "type": "call",
         "name": {
-          "type": "blt",
+          "type": "fun",
           "name": "len"
         },
         "args": [
@@ -234,7 +234,7 @@
       {
         "type": "call",
         "name": {
-          "type": "blt",
+          "type": "fun",
           "name": "len"
         },
         "args": [
@@ -251,7 +251,7 @@
       {
         "type": "call",
         "name": {
-          "type": "blt",
+          "type": "fun",
           "name": "len"
         },
         "args": [
@@ -272,7 +272,7 @@
       {
         "type": "call",
         "name": {
-          "type": "blt",
+          "type": "fun",
           "name": "len"
         },
         "args": [
@@ -293,7 +293,7 @@
       {
         "type": "call",
         "name": {
-          "type": "blt",
+          "type": "fun",
           "name": "len"
         },
         "args": [
@@ -336,7 +336,7 @@
       {
         "type": "call",
         "name": {
-          "type": "blt",
+          "type": "fun",
           "name": "number"
         },
         "args": [
@@ -354,7 +354,7 @@
       {
         "type": "call",
         "name": {
-          "type": "blt",
+          "type": "fun",
           "name": "number"
         },
         "args": [

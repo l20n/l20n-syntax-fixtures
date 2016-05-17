@@ -147,7 +147,7 @@
                 "expression": {
                   "type": "CallExpression",
                   "callee": {
-                    "type": "BuiltinReference",
+                    "type": "FunctionReference",
                     "name": "LEN"
                   },
                   "args": [
@@ -226,14 +226,14 @@
                 "expression": {
                   "type": "CallExpression",
                   "callee": {
-                    "type": "BuiltinReference",
+                    "type": "FunctionReference",
                     "name": "LEN"
                   },
                   "args": [
                     {
                       "type": "CallExpression",
                       "callee": {
-                        "type": "BuiltinReference",
+                        "type": "FunctionReference",
                         "name": "NEL"
                       },
                       "args": [
@@ -341,7 +341,7 @@
               {
                 "type": "CallExpression",
                 "callee": {
-                  "type": "BuiltinReference",
+                  "type": "FunctionReference",
                   "name": "LEN"
                 },
                 "args": [
@@ -387,7 +387,7 @@
               {
                 "type": "CallExpression",
                 "callee": {
-                  "type": "BuiltinReference",
+                  "type": "FunctionReference",
                   "name": "len"
                 },
                 "args": []
@@ -416,7 +416,7 @@
               {
                 "type": "CallExpression",
                 "callee": {
-                  "type": "BuiltinReference",
+                  "type": "FunctionReference",
                   "name": "len"
                 },
                 "args": [
@@ -450,7 +450,7 @@
               {
                 "type": "CallExpression",
                 "callee": {
-                  "type": "BuiltinReference",
+                  "type": "FunctionReference",
                   "name": "len"
                 },
                 "args": [
@@ -484,7 +484,7 @@
               {
                 "type": "CallExpression",
                 "callee": {
-                  "type": "BuiltinReference",
+                  "type": "FunctionReference",
                   "name": "len"
                 },
                 "args": [
@@ -518,7 +518,7 @@
               {
                 "type": "CallExpression",
                 "callee": {
-                  "type": "BuiltinReference",
+                  "type": "FunctionReference",
                   "name": "len"
                 },
                 "args": [
@@ -552,7 +552,7 @@
               {
                 "type": "CallExpression",
                 "callee": {
-                  "type": "BuiltinReference",
+                  "type": "FunctionReference",
                   "name": "len"
                 },
                 "args": [
@@ -590,7 +590,7 @@
               {
                 "type": "CallExpression",
                 "callee": {
-                  "type": "BuiltinReference",
+                  "type": "FunctionReference",
                   "name": "len"
                 },
                 "args": [
@@ -628,7 +628,7 @@
               {
                 "type": "CallExpression",
                 "callee": {
-                  "type": "BuiltinReference",
+                  "type": "FunctionReference",
                   "name": "len"
                 },
                 "args": [
@@ -707,7 +707,7 @@
               {
                 "type": "CallExpression",
                 "callee": {
-                  "type": "BuiltinReference",
+                  "type": "FunctionReference",
                   "name": "number"
                 },
                 "args": [
@@ -752,7 +752,7 @@
               {
                 "type": "CallExpression",
                 "callee": {
-                  "type": "BuiltinReference",
+                  "type": "FunctionReference",
                   "name": "number"
                 },
                 "args": [
