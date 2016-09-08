@@ -29,8 +29,7 @@
           "type": "kw",
           "name": "masculine"
         },
-        "val": "Variant for masculine",
-        "def": true
+        "val": "Variant for masculine"
       },
       {
         "key": {
@@ -39,7 +38,8 @@
         },
         "val": "Variant for feminine"
       }
-    ]
+    ],
+    "def": 0
   },
   "key4": {
     "traits": [
