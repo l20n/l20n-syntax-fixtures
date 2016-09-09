@@ -379,106 +379,12 @@
           "comment": null
         },
         {
-          "type": "Entity",
-          "id": {
-            "type": "Identifier",
-            "name": "key9"
-          },
-          "value": null,
-          "traits": [
-            {
-              "type": "Member",
-              "key": {
-                "type": "Keyword",
-                "name": "a",
-                "namespace": null
-              },
-              "value": {
-                "type": "Pattern",
-                "source": "A",
-                "elements": [
-                  {
-                    "type": "TextElement",
-                    "value": "A"
-                  }
-                ],
-                "_quoteDelim": false
-              },
-              "default": false
-            },
-            {
-              "type": "Member",
-              "key": {
-                "type": "Keyword",
-                "name": "a b",
-                "namespace": null
-              },
-              "value": {
-                "type": "Pattern",
-                "source": "AB",
-                "elements": [
-                  {
-                    "type": "TextElement",
-                    "value": "AB"
-                  }
-                ],
-                "_quoteDelim": false
-              },
-              "default": false
-            }
-          ],
-          "comment": null
+          "type": "JunkEntry",
+          "content": "key9 =\n [a ] A\n [a b ] AB\n\n"
         },
         {
-          "type": "Entity",
-          "id": {
-            "type": "Identifier",
-            "name": "key10"
-          },
-          "value": null,
-          "traits": [
-            {
-              "type": "Member",
-              "key": {
-                "type": "Keyword",
-                "name": "a",
-                "namespace": "x"
-              },
-              "value": {
-                "type": "Pattern",
-                "source": "XA",
-                "elements": [
-                  {
-                    "type": "TextElement",
-                    "value": "XA"
-                  }
-                ],
-                "_quoteDelim": false
-              },
-              "default": false
-            },
-            {
-              "type": "Member",
-              "key": {
-                "type": "Keyword",
-                "name": "a b",
-                "namespace": "x"
-              },
-              "value": {
-                "type": "Pattern",
-                "source": "XAB",
-                "elements": [
-                  {
-                    "type": "TextElement",
-                    "value": "XAB"
-                  }
-                ],
-                "_quoteDelim": false
-              },
-              "default": false
-            }
-          ],
-          "comment": null
+          "type": "JunkEntry",
+          "content": "key10 =\n [x/a ] XA\n [x/a b ] XAB\n"
         }
       ],
       "comment": null

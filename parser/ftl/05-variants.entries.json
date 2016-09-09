@@ -111,43 +111,5 @@
         "val": "A"
       }
     ]
-  },
-  "key9": {
-    "traits": [
-      {
-        "key": {
-          "type": "kw",
-          "name": "a"
-        },
-        "val": "A"
-      },
-      {
-        "key": {
-          "type": "kw",
-          "name": "a b"
-        },
-        "val": "AB"
-      }
-    ]
-  },
-  "key10": {
-    "traits": [
-      {
-        "key": {
-          "type": "kw",
-          "name": "a",
-          "ns": "x"
-        },
-        "val": "XA"
-      },
-      {
-        "key": {
-          "type": "kw",
-          "name": "a b",
-          "ns": "x"
-        },
-        "val": "XAB"
-      }
-    ]
   }
 }
