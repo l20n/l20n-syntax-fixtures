@@ -47,7 +47,15 @@
     },
     {
       "type": "JunkEntry",
-      "content": "key8 =\n  [x y/a] XYA\n"
+      "content": "key8 =\n  [x y/a] XYA\n\n"
+    },
+    {
+      "type": "JunkEntry",
+      "content": "key9 =\n [a ] A\n [a b ] AB\n\n"
+    },
+    {
+      "type": "JunkEntry",
+      "content": "key10 =\n [x/a ] XA\n [x/a b ] XAB\n"
     }
   ],
   "comment": null

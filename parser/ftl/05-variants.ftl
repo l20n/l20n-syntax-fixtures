@@ -32,11 +32,3 @@ key7 =
 
 key8 =
   [x/a b] A
-
-key9 =
- [a ] A
- [a b ] AB
-
-key10 =
- [x/a ] XA
- [x/a b ] XAB
