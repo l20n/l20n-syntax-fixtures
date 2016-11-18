@@ -36,7 +36,7 @@
             "value": "New entity"
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": {
@@ -59,7 +59,7 @@
             "value": "Multi line message"
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": {

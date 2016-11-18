@@ -24,7 +24,7 @@
             "value": "value"
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -48,7 +48,7 @@
             "value": "Value"
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -76,7 +76,7 @@
             "value": "Value"
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -100,18 +100,13 @@
             "value": "Value"
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
     },
     {
       "type": "Section",
-      "key": {
-        "type": "Keyword",
-        "name": "section",
-        "namespace": null
-      },
       "body": [
         {
           "type": "JunkEntry",
@@ -132,7 +127,7 @@
                 "value": "value"
               }
             ],
-            "_quoteDelim": false
+            "quoted": false
           },
           "traits": [],
           "comment": null
@@ -156,7 +151,7 @@
                 "value": "value"
               }
             ],
-            "_quoteDelim": false
+            "quoted": false
           },
           "traits": [],
           "comment": null
@@ -180,7 +175,7 @@
                 "value": "value"
               }
             ],
-            "_quoteDelim": false
+            "quoted": false
           },
           "traits": [],
           "comment": null
@@ -204,7 +199,7 @@
                 "value": "value"
               }
             ],
-            "_quoteDelim": false
+            "quoted": false
           },
           "traits": [],
           "comment": null
@@ -218,7 +213,12 @@
           "content": "#doo\n[[\n\n#foo\n[\n"
         }
       ],
-      "comment": null
+      "comment": null,
+      "key": {
+        "type": "Keyword",
+        "name": "section",
+        "namespace": null
+      }
     }
   ],
   "comment": null

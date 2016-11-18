@@ -29,7 +29,7 @@
             "value": " BB"
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -54,7 +54,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -95,7 +95,7 @@
                           "value": "One"
                         }
                       ],
-                      "_quoteDelim": false
+                      "quoted": false
                     },
                     "default": false
                   },
@@ -115,7 +115,7 @@
                           "value": "Two"
                         }
                       ],
-                      "_quoteDelim": false
+                      "quoted": false
                     },
                     "default": false
                   }
@@ -124,7 +124,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -174,7 +174,7 @@
                           "value": "One"
                         }
                       ],
-                      "_quoteDelim": false
+                      "quoted": false
                     },
                     "default": false
                   },
@@ -194,7 +194,7 @@
                           "value": "Two"
                         }
                       ],
-                      "_quoteDelim": false
+                      "quoted": false
                     },
                     "default": false
                   }
@@ -203,7 +203,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -262,7 +262,7 @@
                           "value": "One"
                         }
                       ],
-                      "_quoteDelim": false
+                      "quoted": false
                     },
                     "default": false
                   },
@@ -282,7 +282,7 @@
                           "value": "Two"
                         }
                       ],
-                      "_quoteDelim": false
+                      "quoted": false
                     },
                     "default": false
                   }
@@ -291,7 +291,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -320,7 +320,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -366,7 +366,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -395,7 +395,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -429,7 +429,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -463,7 +463,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -497,7 +497,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -531,7 +531,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -569,7 +569,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -607,7 +607,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -645,7 +645,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -686,7 +686,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -723,7 +723,7 @@
                           "value": "percent"
                         }
                       ],
-                      "_quoteDelim": true
+                      "quoted": true
                     }
                   }
                 ]
@@ -731,7 +731,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
@@ -772,7 +772,7 @@
                           "value": "percent"
                         }
                       ],
-                      "_quoteDelim": true
+                      "quoted": true
                     }
                   },
                   {
@@ -787,7 +787,7 @@
                           "value": "bar"
                         }
                       ],
-                      "_quoteDelim": true
+                      "quoted": true
                     }
                   }
                 ]
@@ -795,7 +795,7 @@
             ]
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null

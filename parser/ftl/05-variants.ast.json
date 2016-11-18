@@ -16,7 +16,7 @@
             "value": "Value"
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [
         {
@@ -35,7 +35,7 @@
                 "value": "male"
               }
             ],
-            "_quoteDelim": false
+            "quoted": false
           },
           "default": false
         }
@@ -66,7 +66,7 @@
                 "value": "male"
               }
             ],
-            "_quoteDelim": false
+            "quoted": false
           },
           "default": false
         }
@@ -97,7 +97,7 @@
                 "value": "Variant for masculine"
               }
             ],
-            "_quoteDelim": false
+            "quoted": false
           },
           "default": true
         },
@@ -117,7 +117,7 @@
                 "value": "Variant for feminine"
               }
             ],
-            "_quoteDelim": false
+            "quoted": false
           },
           "default": false
         }
@@ -148,7 +148,7 @@
                 "value": "Test"
               }
             ],
-            "_quoteDelim": false
+            "quoted": false
           },
           "default": false
         }
@@ -179,7 +179,7 @@
                 "value": "Test"
               }
             ],
-            "_quoteDelim": false
+            "quoted": false
           },
           "default": false
         },
@@ -199,7 +199,7 @@
                 "value": "Foo"
               }
             ],
-            "_quoteDelim": false
+            "quoted": false
           },
           "default": false
         }
@@ -230,7 +230,7 @@
                 "value": "Foo"
               }
             ],
-            "_quoteDelim": false
+            "quoted": false
           },
           "default": false
         }
@@ -239,11 +239,6 @@
     },
     {
       "type": "Section",
-      "key": {
-        "type": "Keyword",
-        "name": "section",
-        "namespace": null
-      },
       "body": [
         {
           "type": "Entity",
@@ -269,7 +264,7 @@
                     "value": "One"
                   }
                 ],
-                "_quoteDelim": false
+                "quoted": false
               },
               "default": false
             },
@@ -289,7 +284,7 @@
                     "value": "Two"
                   }
                 ],
-                "_quoteDelim": false
+                "quoted": false
               },
               "default": false
             },
@@ -309,7 +304,7 @@
                     "value": "Three"
                   }
                 ],
-                "_quoteDelim": false
+                "quoted": false
               },
               "default": false
             }
@@ -340,7 +335,7 @@
                     "value": "A"
                   }
                 ],
-                "_quoteDelim": false
+                "quoted": false
               },
               "default": false
             }
@@ -371,7 +366,7 @@
                     "value": "A"
                   }
                 ],
-                "_quoteDelim": false
+                "quoted": false
               },
               "default": false
             }
@@ -379,7 +374,12 @@
           "comment": null
         }
       ],
-      "comment": null
+      "comment": null,
+      "key": {
+        "type": "Keyword",
+        "name": "section",
+        "namespace": null
+      }
     }
   ],
   "comment": null

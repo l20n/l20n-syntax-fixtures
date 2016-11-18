@@ -16,18 +16,13 @@
             "value": "This entity is standalone"
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
     },
     {
       "type": "Section",
-      "key": {
-        "type": "Keyword",
-        "name": "section1",
-        "namespace": null
-      },
       "body": [
         {
           "type": "Entity",
@@ -44,21 +39,21 @@
                 "value": "This entity belongs to section 1"
               }
             ],
-            "_quoteDelim": false
+            "quoted": false
           },
           "traits": [],
           "comment": null
         }
       ],
-      "comment": null
+      "comment": null,
+      "key": {
+        "type": "Keyword",
+        "name": "section1",
+        "namespace": null
+      }
     },
     {
       "type": "Section",
-      "key": {
-        "type": "Keyword",
-        "name": "menu",
-        "namespace": null
-      },
       "body": [
         {
           "type": "Entity",
@@ -75,7 +70,7 @@
                 "value": "This entity belongs to section 2"
               }
             ],
-            "_quoteDelim": false
+            "quoted": false
           },
           "traits": [],
           "comment": null
@@ -84,6 +79,11 @@
       "comment": {
         "type": "Comment",
         "content": "Section comment"
+      },
+      "key": {
+        "type": "Keyword",
+        "name": "menu",
+        "namespace": null
       }
     }
   ],

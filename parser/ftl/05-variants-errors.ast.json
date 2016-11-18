@@ -20,7 +20,7 @@
             "value": "Value"
           }
         ],
-        "_quoteDelim": false
+        "quoted": false
       },
       "traits": [],
       "comment": null
