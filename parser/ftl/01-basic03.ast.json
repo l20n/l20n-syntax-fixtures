@@ -100,6 +100,26 @@
       },
       "traits": [],
       "comment": null
+    },
+    {
+      "type": "Entity",
+      "id": {
+        "type": "Identifier",
+        "name": "key6"
+      },
+      "value": {
+        "type": "Pattern",
+        "source": " Foo \" Foo2 ",
+        "elements": [
+          {
+            "type": "TextElement",
+            "value": " Foo \" Foo2 "
+          }
+        ],
+        "quoted": true
+      },
+      "traits": [],
+      "comment": null
     }
   ],
   "comment": null

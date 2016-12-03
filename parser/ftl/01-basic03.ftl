@@ -5,3 +5,5 @@ key3 = " Value 3 "
 key4 = ""
 
 key5 = " "
+
+key6 = " Foo \" Foo2 "
